@@ -40,6 +40,10 @@ button.bitbucket {
   padding: 0;
 }
 
+img {
+  height: 50px;
+}
+
 pre {
   text-align: left;
   background: #f0f0f0;
